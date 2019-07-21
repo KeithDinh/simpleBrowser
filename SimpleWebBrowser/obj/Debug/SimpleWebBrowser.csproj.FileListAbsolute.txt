@@ -1,0 +1,10 @@
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojAssemblyReference.cache
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.cache
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+C:\Users\kietd\source\repos\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
